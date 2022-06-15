@@ -22,7 +22,7 @@ import static com.example.springbootdome.controller.CommonController.URL;
 @RequestMapping(URL)
 public class CommonController {
  
- public final static String URL="/common/";
+ public final static String URL="/common/aa";
 
  @Autowired
  ICmUserService userService;
