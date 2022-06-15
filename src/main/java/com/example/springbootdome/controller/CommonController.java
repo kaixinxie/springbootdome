@@ -21,7 +21,7 @@ import static com.example.springbootdome.controller.CommonController.URL;
 @RestController
 @RequestMapping(URL)
 public class CommonController {
- 
+  
  public final static String URL="/common/dev2";
 
  @Autowired
